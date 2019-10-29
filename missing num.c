@@ -10,7 +10,7 @@ int getMissingNo(int a[], int n)
 	return total; 
 } 
 
-/*program to test above function */
+/*program to test above function*/
 int main() 
 { 
 	int a[] = { 1, 2, 4, 5, 6 }; 
